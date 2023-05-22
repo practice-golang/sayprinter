@@ -1,3 +1,5 @@
+cd goodbye
+
 cl.exe /nologo /LD goodbye.cpp /Fe:./
 
 gendef ./goodbye.dll
