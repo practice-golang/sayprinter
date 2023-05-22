@@ -4,6 +4,7 @@ package sayprinter
 // #cgo LDFLAGS: -static -L. -lstdc++ -lgoodbye
 // #include "hello.h"
 // #include "goodbye.h"
+// #include "hello/hello.c"
 import "C"
 
 func SayHello() {
