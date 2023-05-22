@@ -1,7 +1,7 @@
 package main // import "run-sayprinter"
 
 import (
-	sp "sayprinter"
+	sp "github.com/practice-golang/sayprinter"
 )
 
 func main() {
