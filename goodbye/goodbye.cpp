@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <cstdio>
 #include "goodbye.h"
 
 int say_goodbye() {
